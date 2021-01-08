@@ -5,6 +5,6 @@
 	<meta charset="utf-8">
 </head>
 <body>
-<h1><a href="">nhap vao day de toi trang galerry</a></h1>
+<h1><a href="page1.html">nhap vao day de toi trang galerry</a></h1>
 </body>
 </html>
